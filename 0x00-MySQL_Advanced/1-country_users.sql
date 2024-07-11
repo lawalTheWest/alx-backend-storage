@@ -1,4 +1,4 @@
--- An SQL script that creates a table users. It can be executed on any database
+-- a SQL script that creates a table users.can be executed on any database
 -- eg holberton on 'echo "SELECT * FROM users;" | mysql -uroot -p holberton'
 CREATE TABLE IF NOT EXISTS users (
     id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
